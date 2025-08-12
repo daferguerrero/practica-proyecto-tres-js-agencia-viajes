@@ -1,6 +1,6 @@
 # 🌎 Aplicación de Venta de Viajes con JavaScript
 
-**Demo en línea:** [Ver aplicación funcionando](https://davidfguerrerov.github.io/base-practica-proyecto-tres-js-agencia-viajes/)
+**Demo en línea:** [Ver aplicación funcionando]([https://davidfguerrerov.github.io/base-practica-proyecto-tres-js-agencia-viajes/](https://daferguerrero.github.io/practica-proyecto-tres-js-agencia-viajes/))
 
 Este proyecto es una aplicación web interactiva desarrollada en **JavaScript** que permite explorar destinos turísticos de Colombia y conocer sus precios. Los usuarios pueden cambiar entre diferentes ciudades para visualizar información detallada y atractiva de cada una.
 
